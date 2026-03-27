@@ -1,6 +1,6 @@
 ## ph0nkwalk3r’s EA TRAX™ Refresh
 
-![preview] <img width="3508" height="2481" alt="mod thumbnail" src="https://github.com/user-attachments/assets/2d9a7f59-60d6-4fcd-bd42-37873e98bdbf" />
+<img width="3508" height="2481" alt="mod thumbnail" src="https://github.com/user-attachments/assets/2d9a7f59-60d6-4fcd-bd42-37873e98bdbf" />
 
 ## 1. Introduction
 
